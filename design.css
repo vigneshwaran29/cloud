@@ -1,0 +1,112 @@
+body{
+	background-color: #122945;
+	font-size: 14px;
+	font-family: 'Poppins', sans-serif;;
+
+}
+
+
+
+.store{
+
+	width:75%;
+
+	margin: 50px auto;
+}
+
+.signin-box{
+	background: #fff;
+	display: flex;
+	border-radius: 30px;
+	
+}
+
+.left{
+	flex-basis: 60%;
+	padding: 20px 60px 60px;
+	
+
+
+}
+.right{
+	flex-basis: 40%;
+	padding: 40px;
+	background: #7BCCB5;
+	color: #000;
+	border-radius: 30px;
+	
+}
+
+h1{
+	margin-bottom: 30px;
+	color: #fff;
+}
+
+.user-input{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 20px;
+}
+
+.user-input .user-input1{
+	flex-basis: 45%;
+
+}
+
+input{
+	width: 100%;
+	border: none;
+	border-bottom: 1px solid #ccc;
+	outline: none;
+	padding-bottom: 5px;
+
+
+}
+
+label{
+	margin-bottom: 6px;
+	display: block;
+	color: #1c00b5;
+
+	
+}
+
+button{
+	background: #1c00b5;
+	width: 100px;
+	border: none;
+	outline: none;
+	color: #fff;
+	height: 35px;
+	border-radius: 30px;
+	margin-top: 20px;
+	box-shadow: 0px 5px 15px 0px rgba(28, 0, 181, 0.2);
+
+}
+
+tr td:first-child{
+
+	padding-right: 20px;
+}
+
+tr td{
+
+	padding-top: 20px;
+}
+
+.sign{
+
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+
+}
+
+.New_user{
+
+	padding-top: 15px;
+	padding-bottom: 8px;
+	font-size: 13px;
+
+}
+	
